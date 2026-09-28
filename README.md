@@ -2,7 +2,7 @@
 
 Hi! I’m Travis Ngo — a senior at the University of Texas at Arlington
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 - A Raytheon UAV/UGV Competition
 - Passing All of my Courses
 
